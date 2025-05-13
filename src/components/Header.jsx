@@ -5,9 +5,9 @@ export const Header = () => {
   return (
     <header>
         <h1>
-            React Shop
+            React Shop 🛒
         </h1>
-        <FIlters/>
+        <FIlters />
     </header>
   )
 }
